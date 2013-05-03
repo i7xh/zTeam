@@ -5,5 +5,5 @@ zTeam
 
 ## Quick Setup
 
-* 嵌入zhihu.com页面的扩展功能
+* 嵌入http://zhihu.com页面的扩展功能
 
